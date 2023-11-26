@@ -56,3 +56,4 @@ def vac_feedback(vac, efficiency):
 
 vac_feedback("Pfizer", 95)
 vac_feedback("Unkown", 45)
+vac_feedback(efficiency=91, vac='Modera')
